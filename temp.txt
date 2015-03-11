@@ -1,0 +1,1 @@
+insert into user ([firstname],[lastname],[username],[password],[dob],[fieldofwork],[Specialisation],[readinginterests]) values('Rohan','Gada','zxczxczxc','aaaa','09/28/14','Engineering','zxcxcjhzxcj','zcxzcszcz')

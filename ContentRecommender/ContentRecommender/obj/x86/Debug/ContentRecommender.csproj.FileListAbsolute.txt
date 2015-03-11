@@ -1,0 +1,150 @@
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe.config
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.ResolveComReference.cache
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.pdb
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.baml
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.baml
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.g.cs
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.g.cs
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\App.g.cs
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender_MarkupCompile.cache
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.g.resources
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.Properties.Resources.resources
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.SmartRead.resources
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.GenerateResource.Cache
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.exe
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.pdb
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - Copy\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe.config
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - Copy\ContentRecommender\ContentRecommender\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - Copy\ContentRecommender\ContentRecommender\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - Copy\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.ResolveComReference.cache
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - Copy\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.exe
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - Copy\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.pdb
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe.config
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.ResolveComReference.cache
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.exe
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.pdb
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.pdb
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.baml
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.baml
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SmartRead.baml
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.g.cs
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.g.cs
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SmartRead.g.cs
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\App.g.cs
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender_MarkupCompile.cache
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.g.resources
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.PDFViewerUserControl.resources
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.Properties.Resources.resources
+C:\Users\DELL\Dropbox\Seminar\SmartRead - DO NOT DELETE - withoutWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.GenerateResource.Cache
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe.config
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.ResolveComReference.cache
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.exe
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.pdb
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.pdb
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csprojResolveAssemblyReference.cache
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.baml
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.baml
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SmartRead.baml
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.g.cs
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.g.cs
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SmartRead.g.cs
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\App.g.cs
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender_MarkupCompile.cache
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.g.resources
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.PDFViewerUserControl.resources
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.Properties.Resources.resources
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.GenerateResource.Cache
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SelectArticle.baml
+C:\Users\Zeal\Desktop\B.E. Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SelectArticle.g.cs
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe.config
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.ResolveComReference.cache
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.exe
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.pdb
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.pdb
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.baml
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.baml
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SmartRead.baml
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SelectArticle.baml
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.g.cs
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.g.cs
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SmartRead.g.cs
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SelectArticle.g.cs
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\App.g.cs
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender_MarkupCompile.cache
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.g.resources
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.PDFViewerUserControl.resources
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.Properties.Resources.resources
+C:\Users\DELL\Dropbox\Seminar\BACKUP Project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.GenerateResource.Cache
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe.config
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Interop.AcroPDFLib.dll
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.ResolveComReference.cache
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.exe
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.pdb
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.pdb
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\Interop.AcroPDFLib.dll
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csprojResolveAssemblyReference.cache
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.baml
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.baml
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SmartRead.baml
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SelectArticle.baml
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.g.cs
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.g.cs
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SmartRead.g.cs
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SelectArticle.g.cs
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\App.g.cs
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender_MarkupCompile.cache
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.g.resources
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.PDFViewerUserControl.resources
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.Properties.Resources.resources
+F:\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.GenerateResource.Cache
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe.config
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.ResolveComReference.cache
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.exe
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.pdb
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.exe
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\ContentRecommender.pdb
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csprojResolveAssemblyReference.cache
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.baml
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.baml
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SmartRead.baml
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SelectArticle.baml
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\Login.g.cs
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\RegisterUser.g.cs
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SmartRead.g.cs
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\SelectArticle.g.cs
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\App.g.cs
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender_MarkupCompile.cache
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.g.resources
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.PDFViewerUserControl.resources
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.Properties.Resources.resources
+C:\BE project\SmartRead - DO NOT DELETE - withWPF PDF reader\SmartRead - DO NOT DELETE - withWPF PDF reader\ContentRecommender\ContentRecommender\obj\x86\Debug\ContentRecommender.csproj.GenerateResource.Cache
